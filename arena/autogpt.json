@@ -1,6 +1,6 @@
 {
-    "github_repo_url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "timestamp": "2023-11-15T07:22:09.723393",
-    "commit_hash_to_benchmark": "fa357dd13928baa4d1e30054bc75edc5d68b08f1",
+    "github_repo_url": "https://github.com/charlesinwald/AutoGPT.git",
+    "timestamp": "2024-02-22T04:12:04.796332",
+    "commit_hash_to_benchmark": "e44ca4185a0d56273b7e2cd68fc5ca42a4f9b73e",
     "branch_to_benchmark": "master"
 }
